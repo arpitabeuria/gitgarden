@@ -1,5 +1,5 @@
 # gitgarden
 
-\Its my 1st project 
-\Its basically a multipurpose device
-\connection and codes are attached 
+<br>Its my 1st project 
+<br>Its basically a multipurpose device
+<br>connection and codes are attached 
